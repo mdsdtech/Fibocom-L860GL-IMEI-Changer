@@ -2,7 +2,7 @@
 
 ## Fibocom L850/L860
 ### IMEI Changer
-- [Fibocom L860](https://github.com/lutfailham96/diy-modem-tools/releases/tag/l860-gl)
+- [Fibocom L860](https://github.com/mdsdtech/Fibocom-L860GL-IMEI-Changer/releases)
 ### Network Information Tools
 #### Installation
 ```shell
